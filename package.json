@@ -1,0 +1,14 @@
+{
+  "name": "belajarnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts" : {
+    "start" : "node Server.js"
+  },
+  "dependencies" : {
+    "express" : "latest"
+  },
+  "author": "Reza Daulay",
+  "license": "ISC"
+}
